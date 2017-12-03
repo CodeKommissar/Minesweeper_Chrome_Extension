@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Minesweeper Game",
+  "version": "0.0.1",
+  "browser_action": {
+    "default_icon": "minesweeper/images/smiley_face.png",
+    "default_popup": "minesweeper/minesweeper.html",
+    "default_title": "Play Minesweeper"
+  }
+}
